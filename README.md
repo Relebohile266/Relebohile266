@@ -1,8 +1,9 @@
-👋Hi, I'm **Relebohile Lindah**, a passionate and self-motivated professional transitioning from a strong background in **Human Resources** to the exciting world of **Information Technology**. With over 3 years of HR experience, I'm now leveraging my soft skills, strategic thinking, and people-first mindset to create meaningful solutions through code and digital innovation.
+##✨Welcome to my GitHub🙂!
 
-Welcome to my GitHub!
+## 👩🏽About Me:
 
-I'm passionate about **Information Technology**, eager to grow in areas like **cybersecurity**, **software development**, **web design**, and **digital systems**. After gaining experience in Human Resources and developing a strong foundation in professional communication and problem-solving, I’ve decided to pursue my passion for technology.
+👋Hi, I'm **Relebohile Lindah**, a passionate and self-motivated professional transitioning from a strong background in **Human Resources**. With over 3 years of HR experience, I'm now leveraging my soft skills, strategic thinking, and people-first mindset to create meaningful solutions through code and digital innovation. I’ve decided to pursue my passion for technology and eager to grow in areas like **cybersecurity**, **software development**, **web design**, and **digital systems**.
+
 
 ## 📚Educational Background:
 
